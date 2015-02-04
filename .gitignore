@@ -1,0 +1,6 @@
+Thumbs.db
+.gradle
+build
+*.iml
+concept
+*.idea

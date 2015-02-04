@@ -1,0 +1,45 @@
+###########################################
+##                                       ##
+##  Meta information for tile images...  ##
+##                                       ##
+##                                       ##
+##  type - filename - y offset - level   ##
+##                                       ##
+###########################################
+
+
+# Ground Cells #
+
+ground - tile_green.png - 0 - 1
+ground - tile_brown.png - 0 - 1
+
+# Plant Cells #
+
+plant - bushlvl1.png - 0 - 1
+plant - bushlvl2.png - 0 - 2
+plant - bushlvl3.png - 0 - 3
+plant - bushlvl4.png - 0 - 4
+plant - bushlvl5.png - 0 - 5
+
+plant - treelvl1.png  - 4.5 - 1
+plant - treelvl2.png  - 10 - 2
+plant - treelvl3.png  - 13.5 - 3
+plant - treelvl4.png  - 15.5 - 4
+plant - treelvl5a.png - 17 - 5
+plant - treelvl5b.png - 18 - 5
+
+
+# Mountain Cells #
+
+mountain - mountainlvl1.png - 4.5 - 1
+mountain - mountainlvl2.png - 13 - 2
+mountain - mountainlvl3.png - 21.3 - 3
+mountain - mountainlvl4.png - 30 - 4
+mountain - mountainlvl5.png - 40 - 5
+
+
+# Cloud Cells #
+
+cloud - cloud clear.png  - 0 - 1
+cloud - cloud dark 1.png - 0 - 1
+cloud - cloud dark 2.png - 0 - 1
