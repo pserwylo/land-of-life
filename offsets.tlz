@@ -43,3 +43,11 @@ mountain - mountainlvl5.png - 40 - 5
 cloud - cloud clear.png  - 0 - 1
 cloud - cloud dark 1.png - 0 - 1
 cloud - cloud dark 2.png - 0 - 1
+
+# Ocean Cells #
+
+ocean - ocean_a.png - 0 - 1
+ocean - ocean_b.png - 0 - 1
+ocean - ocean_c.png - 0 - 1
+ocean - ocean_d.png - 0 - 1
+ocean - ocean_e.png - 0 - 1
